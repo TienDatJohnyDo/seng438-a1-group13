@@ -17,4 +17,8 @@ This repository contains firstly our written lab report, an excel file which con
 # seng438-a1
 
 Appendix A : 
+##Overview
 ![Jira](JiraOverview.png "Overview")
+
+##Test case
+![JiraTest](JiraTestCase.png "TC")
