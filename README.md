@@ -4,7 +4,7 @@ Assignment 1 for Group 13
 * Tien Dat Johny Do
 * Tommy Dinh 
 * Stuart Johnstone
-*Sina Tavakol Moghaddam
+* Sina Tavakol Moghaddam
 
 This repository contains: 
 * Our written lab report
