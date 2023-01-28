@@ -16,8 +16,8 @@ This repository contains firstly our written lab report, an excel file which con
 
 
 # Appendix A : 
-## Overview
+## Jira Overview Page
 ![Jira](JiraOverview.png "Overview")
 
-## Test case
+## Jira Test case Example
 ![JiraTest](JiraTestCase.png "TC")
