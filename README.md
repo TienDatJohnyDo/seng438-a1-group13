@@ -8,6 +8,7 @@ Assignment 1 for Group 13
 
 This repository contains: 
 * Our written lab report
+* Defect Report 
 * An excel file which contains the exploratory testing on sheet 1 and manual functional testing and regression testing on sheet 2. 
 * Screenshots of our Jira Project
 * Lab 1 Powerpoint (from cloned repository)
